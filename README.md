@@ -1,4 +1,4 @@
-# Plot.ly - Belly But Biodiversity
+# Plot.ly - Belly Butt Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
